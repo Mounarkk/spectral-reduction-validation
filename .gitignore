@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# LaTeX build artefacts (doc/main.pdf is kept)
+doc/*.aux
+doc/*.log
+doc/*.out
+doc/*.toc
+doc/*.fls
+doc/*.fdb_latexmk
+doc/*.synctex.gz
+doc/*.bbl
+doc/*.blg
